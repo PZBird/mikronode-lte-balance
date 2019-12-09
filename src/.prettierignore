@@ -1,0 +1,5 @@
+coverage/
+*.compiled/*
+log/
+.npm-cache
+*.vscode/*

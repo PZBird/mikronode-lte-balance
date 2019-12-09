@@ -1,0 +1,10 @@
+node_modules
+.git
+.idea
+package-lock.json
+yarn.lock
+k8s
+nohup.out
+old_Dockerfile
+Makefile
+README.md
